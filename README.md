@@ -1,1 +1,1 @@
-# jurnla-proyek-3
+# jurnal-proyek-3
